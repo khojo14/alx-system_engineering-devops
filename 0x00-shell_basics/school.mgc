@@ -1,6 +1,2 @@
 #!/bin/bash
-file-magic-number-mime-util
-
-0 string SCHOOL data file
-
-file -m school.mgc test.data 
+0 string SCHOOL School data 
